@@ -10,9 +10,8 @@ The i-th vegetable costs W; and has a tasty value p.
 Find out the maximum tasty value you can get.
 
 Input:
-The 1st line:
-three positive integers k, n, m
-The next n lines:
-each line contains two positive integers, Ci, Vi The next m lines: each line contains two positive integers, Wi, Pi
+The 1st line: three positive integers k, n, m
+The next n lines: each line contains two positive integers, Ci, Vi
+The next m lines: each line contains two positive integers, Wi, Pi
 Output:
 An integer representing the maximum amount of tasty value you can get
